@@ -12,14 +12,10 @@
 <!-- 배지: tech stack -->
 ### 🧰 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
   <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2" />
-  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-394049?logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Vivado-FFCC00" />
 </p>
