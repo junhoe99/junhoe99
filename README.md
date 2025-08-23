@@ -2,10 +2,11 @@
 <h1 align="left">👋 안녕하세요, 준비된 디지털 설계 엔지니어 김준회입니다!</h1>
 
 <p>
-- **SystemVerilog** 기반 UVM을 통해 디자인을 검증했습니다.   
-- **Verilog** 기반 RTL 설계를 통해 디지털 시스템을 설계하고, FPGA를 설계해 보았습니다.
+- <b>SystemVerilog</b> 기반 UVM을 통해 디자인을 검증했습니다.<br>
+- <b>Verilog</b> 기반 RTL 설계를 통해 디지털 시스템을 설계하고, FPGA를 설계해 보았습니다.<br>
 - 기록은 기억을 이긴다.
 </p>
+
 
 <!-- 배지: tech stack -->
 ### 🧰 Tech Stack
