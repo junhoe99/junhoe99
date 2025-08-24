@@ -22,9 +22,9 @@
 
 <!-- 주요 프로젝트: 링크 + 한줄 설명 -->
 ### 📌 주요 프로젝트
-#### Design Verification
-- [UVM_UART](https://github.com/junhoe99/UVM_UART) – UVM 기반 UART IP Verification Project
-- [UVM_ALU](https://github.com/junhoe99/UVM_ALU) – UVM 기반 ALU Design Verification Project
+<b>Design Verification</b> <br>
+- <b>[UVM_UART]</b>(https://github.com/junhoe99/UVM_UART) – UVM 기반 UART IP Verification Project <br>
+- <b>[UVM_ALU]</b>(https://github.com/junhoe99/UVM_ALU) – UVM 기반 ALU Design Verification Project <br>
 #### RTL Design
 - [PCFG](https://github.com/junhoe99/project_PCFG) - HDL을 활용한 PC기반 Function Generator 설계 프로젝트
 - [NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH) - Ion Battery를 비파괴적으로 검사하는 디지털 시스템 설계 프로젝트
