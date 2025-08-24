@@ -26,18 +26,21 @@
 
 ---
 
-### 🏆 수상·인증(Awards)
-> 최근 순으로 정리, 간단 설명 + 관련 링크
-- **2025.03 | OO대학 전자전기공학부 캡스톤 최우수상** – FPGA 기반 비파괴 배터리 진단 시스템  
-- **2024.12 | Synopsys Design Compiler 수료 인증** – Compile/Timing/PPA Optimization 실습  
-- **2024.08 | Harman Connected Services DV Bootcamp 수료** – SystemVerilog/UVM, ALU/UART TB 구축  
-<!-- 필요 시 뱃지 스타일도 가능: 
+### 🏆 수상 및 교육이수 이력
+> **Awards**
+- **🏅2025.07 | 한국생산제조학회 미래형자동차 캡스톤디자인 경진대회** – FPGA 기반 배터리  NDT(Non-Destructive Testing) 시스템  
+- **🏅2024.11 | 교내 캡스톤 디자인 경진대회 동상** – FPGA 기반 배터리  NDT(Non-Destructive Testing) 시스템
+
+> **Training Course**
+- **2023.12 | [Harman] 시스템 반도체 설계/검증 교육과정 수료** 
+- **2024.07 | [ETRI] 디지털 VLSI - 반도체 설계를 위한 Verilog HDL 기본 및  Chip Synthesis & STA분석** 
+- **2023.12 | [단국대학교 대학원] 디지털 시스템 설계 과목 청강 및 프로젝트 참여**  
+
 <p>
   <img src="https://img.shields.io/badge/Capstone-최우수상-blue" />
   <img src="https://img.shields.io/badge/Synopsys-DC%20Training-purple" />
   <img src="https://img.shields.io/badge/Harman-DV%20Bootcamp-green" />
 </p>
--->
 
 ---
 
