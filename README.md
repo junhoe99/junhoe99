@@ -26,8 +26,9 @@
 - <b>[UVM_UART]</b>(https://github.com/junhoe99/UVM_UART) – UVM 기반 UART IP Verification Project <br>
 - <b>[UVM_ALU]</b>(https://github.com/junhoe99/UVM_ALU) – UVM 기반 ALU Design Verification Project <br>
 <b>📖RTL Design </b> <br>
-- <b>[PCFG](https://github.com/junhoe99/project_PCFG)</b> - HDL을 활용한 PC기반 Function Generator 설계 프로젝트 <br>
-- <b>[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)</b> - Ion Battery를 비파괴적으로 검사하는 디지털 시스템 설계 프로젝트<br>
+- <b>[NDT Battery Diagnosis System]</b>(https://github.com/junhoe99/9_dac_adc_triggered_read_JH)- Ion Battery를 비파괴적으로 검사하는 디지털 시스템 설계 프로젝트<br>
+- <b>[PCFG]</b>(https://github.com/junhoe99/project_PCFG) - HDL을 활용한 PC기반 Function Generator 설계 프로젝트 <br>
+
 
 
 <!-- 연락 -->
