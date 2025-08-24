@@ -32,9 +32,9 @@
 - **🏅2024.11 | 교내 캡스톤 디자인 경진대회 동상** – FPGA 기반 배터리  NDT(Non-Destructive Testing) 시스템
 
 > **Training Course**
-- **2023.12 | [Harman] 시스템 반도체 설계/검증 교육과정 수료**   <img src="https://img.shields.io/badge/Harman-DV%20Bootcamp-green" />
-- **2024.07 | [ETRI] 디지털 VLSI - 반도체 설계를 위한 Verilog HDL 기본 및  Chip Synthesis & STA분석**  <img src="https://img.shields.io/badge/Synopsys-DC%20Training-purple" />
-- **2023.12 | [단국대학교 대학원] 디지털 시스템 설계 과목 청강 및 프로젝트 참여**  
+- **2025.07 ~ | [Harman] 시스템 반도체 설계/검증 교육과정 수료**   <img src="https://img.shields.io/badge/Harman-DV%20Bootcamp-green" />
+- **2024.07   | [ETRI] 디지털 VLSI - 반도체 설계를 위한 Verilog HDL 기본 및  Chip Synthesis & STA분석**  <img src="https://img.shields.io/badge/Synopsys-DC%20Training-purple" />
+- **2023.12   | [단국대학교 대학원] 디지털 시스템 설계 과목 청강 및 프로젝트 참여**  
 
 <p>
   <img src="https://img.shields.io/badge/Capstone-최우수상-blue" />
