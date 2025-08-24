@@ -6,19 +6,6 @@
 - **기록은 기억을 이긴다.** 학습/프로젝트 과정을 체계적으로 정리합니다.
 
 ---
-<table>
-  <tr>
-    <td><b>2025.03</b></td>
-    <td>OO대학 캡스톤 <b>최우수상</b></td>
-    <td>FPGA 기반 비파괴 배터리 진단 시스템</td>
-  </tr>
-  <tr>
-    <td><b>2024.12</b></td>
-    <td>Synopsys Design Compiler <b>수료</b></td>
-    <td>compile_ultra, timing closure, PPA 최적화</td>
-  </tr>
-</table>
-
 
 
 ### 🧰 Tech Stack
