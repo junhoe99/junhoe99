@@ -52,9 +52,7 @@
 ---
 
 ### ✉️ Contact
-- Mail: yourname@domain.com  
-- Blog/Velog: https://velog.io/@yourid
-
+- Mail: junhoe99@naver.com 
 ---
 
 ### 📈 Stats
