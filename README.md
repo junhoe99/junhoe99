@@ -38,8 +38,8 @@
 
 ### 📌 주요 프로젝트
 **📖 Design Verification**  
-- **[UVM_UART](https://github.com/junhoe99/UVM_UART)** – UART IP UVM TB (drv/seq/mon/scoreboard, assertions, coverage)  
-- **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Verification (rand test, functional coverage, SVA)
+- **[UVM_UART](https://github.com/junhoe99/UVM_UART)** – UART IP Verification Project (assertions, function coverage)  
+- **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Design Verification Project (rand test, functional coverage, SVA)
 
 **📖 RTL Design**  
 - **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** – Ion Battery 비파괴 진단 시스템, 트리거·ADC·SPI 제어, FPGA 프로토타입  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
