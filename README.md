@@ -28,7 +28,7 @@
 - **🏅2024.11  | 교내 캡스톤 디자인 경진대회 동상** 
 
 > **Training Course**
-- **2025.07 ~ | [Harman] 시스템 반도체 설계/검증 교육과정 수료**
+- **2025.07 ~ | [Harman] 시스템 반도체 설계/검증 교육과정**
   <img src="https://img.shields.io/badge/Harman-DV%20Bootcamp-green" />
 - **2024.07   | [ETRI] 디지털 VLSI - 반도체 설계를 위한 Verilog HDL 기본 및  Chip Synthesis & STA분석**
   <img src="https://img.shields.io/badge/Synopsys-DC%20Tool-purple" />  <img src="https://img.shields.io/badge/Cadence-Xcelium%20Tool-purple" />
