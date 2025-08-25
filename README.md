@@ -2,7 +2,7 @@
 <h1 align="left">👋 안녕하세요, 준비된 디지털 설계 엔지니어 김준회입니다!</h1>
 
 - **SystemVerilog + UVM** 기반으로 IP/블록 레벨 **Design Verification**을 수행했습니다.
-- **Verilog/SystemVerilog RTL**로 디지털 시스템을 설계하고 **합성/시뮬레이션/FPGA 프로토타이핑**까지 경험했습니다.
+- **Verilog/SystemVerilog RTL**로 디지털 시스템을 설계하고 **합성/시뮬레이션/Vivado FPGA implementation**까지 경험했습니다.
 - **기록은 기억을 이긴다.** 학습/프로젝트 과정을 체계적으로 정리합니다.
 
 ---
