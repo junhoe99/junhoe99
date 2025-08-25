@@ -8,17 +8,13 @@
 ---
 
 
-### 🧰 Tech Stack
+### 🧰 Language Stack
 **Main**
 <p>
   <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2" />
   <img src="https://img.shields.io/badge/UVM-8A2BE2" />
   <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
   <img src="https://img.shields.io/badge/Vivado-FFCC00" />
-</p>
-
-**Sub**
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
