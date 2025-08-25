@@ -9,7 +9,7 @@
 
 
 ### 🧰 Language Stack
-**Main**
+>
 <p>
   <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2" />
   <img src="https://img.shields.io/badge/UVM-8A2BE2" />
