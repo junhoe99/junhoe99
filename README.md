@@ -6,19 +6,16 @@
 
 
 ---
+### 📌 주요 프로젝트
+**📖 Design Verification**  
+- **[UVM_UART](https://github.com/junhoe99/UVM_UART)** – UART IP Verification Project (assertions, function coverage)  
+- **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Design Verification Project (rand test, functional coverage, SVA)
 
+**📖 RTL Design**  
+- **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** – Ion Battery 비파괴 진단 시스템, 트리거·ADC·SPI 제어, FPGA 프로토타입  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+- **[PCFG](https://github.com/junhoe99/project_PCFG)** – PC 기반 Function Generator <img src="https://img.shields.io/badge/VHDL-8A2BEE" />
+- **[7_segment](https://github.com/junhoe99/7_segment)** – 7_segment 컨트롤 시스템 <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
 
-### 🧰 Language Stack
->
-<p>
-  <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2" />
-  <img src="https://img.shields.io/badge/UVM-8A2BE2" />
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
-  <img src="https://img.shields.io/badge/Vivado-FFCC00" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
-</p>
 
 ---
 
@@ -35,16 +32,20 @@
 - **2023.12   | [단국대학교 대학원] 디지털 시스템 설계 과목 청강 및 프로젝트 참여**   <img src="https://img.shields.io/badge/Capstone-최우수상-blue" />
 
 ---
+### 🧰 Language & Tool Stacks
+>
+<p>
+  <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2" />
+  <img src="https://img.shields.io/badge/UVM-8A2BE2" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-FFCC00" />
+  <img src="https://img.shields.io/badge/Xcelium-FFCC00" />
+  <img src="https://img.shields.io/badge/Design Compiler-FFCC00" />
+</p>
 
-### 📌 주요 프로젝트
-**📖 Design Verification**  
-- **[UVM_UART](https://github.com/junhoe99/UVM_UART)** – UART IP Verification Project (assertions, function coverage)  
-- **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Design Verification Project (rand test, functional coverage, SVA)
-
-**📖 RTL Design**  
-- **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** – Ion Battery 비파괴 진단 시스템, 트리거·ADC·SPI 제어, FPGA 프로토타입  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
-- **[PCFG](https://github.com/junhoe99/project_PCFG)** – PC 기반 Function Generator <img src="https://img.shields.io/badge/VHDL-8A2BEE" />
-- **[7_segment](https://github.com/junhoe99/7_segment)** – 7_segment 컨트롤 시스템 <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
 
 ---
 
