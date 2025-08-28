@@ -55,7 +55,6 @@
 
 ### 📈 Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junhoe99&show_icons=true&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoe99&layout=compact" />
 </p>
 
