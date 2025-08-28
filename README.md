@@ -54,7 +54,6 @@
 ---
 
 ### 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhoe99&show_icons=true&theme=tokyonight)
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoe99&layout=compact" />
 </p>
