@@ -19,7 +19,7 @@
       
 - **[PCFG](https://github.com/junhoe99/project_PCFG)** :
      - PC 기반 Function Generator <img src="https://img.shields.io/badge/VHDL-8A2BEE" />
-- **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment)** :
+- **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** :
      - 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
 
 
