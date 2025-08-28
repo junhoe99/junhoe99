@@ -20,7 +20,7 @@
 - **[PCFG](https://github.com/junhoe99/project_PCFG)** :
      - PC 기반 Function Generator <img src="https://img.shields.io/badge/VHDL-8A2BEE" />
 - **[7_segment](https://github.com/junhoe99/7_segment)** :
-      -7_segment 컨트롤 시스템 <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+     - 7_segment 컨트롤 시스템 <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
 
 
 ---
