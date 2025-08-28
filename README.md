@@ -61,6 +61,7 @@
 
 <!-- 방문자/트로피(선택) -->
 <p>
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaramSong-95&show_icons=true&theme=tokyonight)
   <img src="https://komarev.com/ghpvc/?username=junhoe99&label=Profile%20Views" />
   <img src="https://github-profile-trophy.vercel.app/?username=junhoe99&theme=flat&column=6" />
 </p>
