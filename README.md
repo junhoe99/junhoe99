@@ -13,8 +13,8 @@
 
 **📖 RTL Design**  
 - **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** :
-  초음파 기반 Ion Battery 비파괴 진단 시스템,
-  ADC, pulser system, FPGA 프로토타입  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+    - 초음파 기반 Ion Battery 비파괴 진단 시스템,
+    - ADC, pulser system, FPGA 프로토타입  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
   
       
 - **[PCFG](https://github.com/junhoe99/project_PCFG)** – PC 기반 Function Generator <img src="https://img.shields.io/badge/VHDL-8A2BEE" />
