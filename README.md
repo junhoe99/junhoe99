@@ -12,15 +12,15 @@
 - **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – (RV32I ISA) RISC-V CPU Design Verification Project
 
 **📖 RTL Design**  
-- **[RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU)** : (RV32I ISA) RISC-V CPU Design Project
+- **[RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU)** - (RV32I ISA) RISC-V CPU Design Project
 
 
-- **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** : 초음파 기반 Ion Battery 비파괴 진단 시스템
+- **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** - 초음파 기반 Ion Battery 비파괴 진단 시스템
   
        
-- **[PCFG](https://github.com/junhoe99/project_PCFG)** : PC 기반 Function Generator
+- **[PCFG](https://github.com/junhoe99/project_PCFG)** - PC 기반 Function Generator
 
-- **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** : 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display 
+- **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** - 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display 
 
 
 
