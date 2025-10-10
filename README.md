@@ -12,6 +12,9 @@
 - **[UVM_UART_TX](https://github.com/junhoe99/UVM_UART_TX)** – UART IP Tx 모듈 Verification Project(*In progress*) 
 
 **📖 RTL Design**  
+- **[RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU)** : RV32I ISA RISC-V CPU 설계
+
+
 - **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** : 초음파 기반 Ion Battery 비파괴 진단 시스템
   
        
