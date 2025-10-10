@@ -2,7 +2,7 @@
 <h1 align="left">👋 안녕하세요, 준비된 디지털 설계/검증 엔지니어 김준회입니다!</h1>
 
 - **SystemVerilog 기반 UVM**을 활용해 IP/block level **Design Verification**을 수행했습니다.
-- **Verilog HDL/SystemVerilog**로 디지털 시스템을 설계하고, **Verification/Synthesis/Vivado FPGA implementation**까지 경험했습니다.
+- **Verilog/SystemVerilog HDL**로 디지털 시스템을 설계하고, **Verification/Synthesis/Vivado FPGA implementation**까지 경험했습니다.
 
 
 ---
