@@ -9,7 +9,7 @@
 ### 📌 주요 프로젝트
 **📖 Design Verification**  
 - **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Design Verification Project
-- **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – UART IP Tx 모듈 Verification Project(*In progress*) 
+- **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – RV32I RISC-V CPU Design Verification Project
 
 **📖 RTL Design**  
 - **[RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU)** : RV32I ISA RISC-V CPU 설계
