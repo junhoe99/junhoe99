@@ -9,7 +9,7 @@
 ### 📌 주요 프로젝트
 **📖 Design Verification [SystemVerilog, UVM]**  
 - **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – (RV32I ISA) RISC-V CPU Design Verification Project
-  
+- **[SV_RV32I_B_Type](https://github.com/junhoe99/SV_RV32I_B_Type)** – (RV32I ISA) RISC-V CPU Design B-type instruction Verification Project
 - **[UVM_ALU](https://github.com/junhoe99/UVM_ALU)** – ALU Design Verification Project
 
 
