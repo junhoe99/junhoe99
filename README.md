@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Harman-DV%20Engineer-green" />
 - **2024.07   | [ETRI] 디지털 VLSI - 반도체 설계를 위한 Verilog HDL 기본 및  Chip Synthesis & STA분석**
   <img src="https://img.shields.io/badge/Synopsys-DC%20Tool-purple" />  <img src="https://img.shields.io/badge/Cadence-Xcelium%20Tool-purple" />
-- **2023.12   | [단국대학교 대학원] 디지털 시스템 설계 과목 청강 및 프로젝트 참여** 
+- **2023.12   | [단국대학교 대학원] 디지털 시스템 설계 과목 프로젝트 참여** 
 
 ---
 ### 🧰 Language & Tool Stacks
