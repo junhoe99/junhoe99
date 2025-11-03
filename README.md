@@ -16,6 +16,8 @@
 
 
 **📖 RTL Design [Verilog / SystemVerilog]**  
+- **[AMBA_APB_UART_Periph](https://github.com/junhoe99/AMBA_APB_UART_Periph)** - AMBA APB Based UART Peripheral Project
+
 - **[RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU)** - (RV32I ISA) RISC-V CPU Design Project
 
 - **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** - 초음파 기반 Ion Battery 비파괴 진단 시스템
