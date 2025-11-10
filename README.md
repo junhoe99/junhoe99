@@ -6,7 +6,7 @@
 
 ---
 ### 📌 주요 프로젝트
-**📖 RTL Design [Verilog / SystemVerilog]**  
+**📖 RTL Design Project[Verilog / SystemVerilog]**  
 - **[AMBA_APB_UART_Periph](https://github.com/junhoe99/AMBA_APB_UART_Periph)** - AMBA APB Based UART Peripheral Project
   
 - **[Multi Cycle RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU_Multi_Cycle)** - (RV32I ISA) Multi Cycle RISC-V CPU Design Project
@@ -18,6 +18,10 @@
 - **[PCFG](https://github.com/junhoe99/project_PCFG)** - PC 기반 Function Generator
 
 - **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** - 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display 
+
+**📖Serial Communication Protocol [Verilog / SystemVerilog]**  
+- **[SPI](https://github.com/junhoe99/SPI_Master)** - SPI Protocol
+
 
 **📖 Design Verification [SystemVerilog, UVM]**  
 - **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – (RV32I ISA) RISC-V CPU Design Verification Project
