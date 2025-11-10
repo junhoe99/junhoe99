@@ -64,8 +64,8 @@
 
 ### 📈 Stats
 <p>
- <img height="160"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoe99&layout=compact&cache_seconds=86400" />
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoe99&layout=compact&cache_seconds=86400&hide=tcl" />
 
 </p>
 
