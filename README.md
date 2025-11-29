@@ -13,15 +13,11 @@
 
 - **[Single Cycle RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU_Single_Cycle)** - (RV32I ISA) Single Cycle RISC-V CPU Design Project
 
-- **[NDT Battery Diagnosis System](https://github.com/junhoe99/9_dac_adc_triggered_read_JH)** - 초음파 기반 Ion Battery 비파괴 진단 시스템
-         
-- **[PCFG](https://github.com/junhoe99/project_PCFG)** - PC 기반 Function Generator
-
-- **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** - 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display 
-
 **📖Serial Communication Protocol [Verilog / SystemVerilog]**  
 - **[UART](https://github.com/junhoe99/UART_Protocol)** - UART Protocol
+- 
 - **[SPI](https://github.com/junhoe99/SPI_Protocol)** - SPI Protocol
+
 - **[I2C](https://github.com/junhoe99/I2C_Protocol)** - I2C Protocol
 
 **📖 Design Verification [SystemVerilog, UVM]**  
