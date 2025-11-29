@@ -15,7 +15,7 @@
 
 **📖Serial Communication Protocol [Verilog / SystemVerilog]**  
 - **[UART](https://github.com/junhoe99/UART_Protocol)** - UART Protocol
-- 
+  
 - **[SPI](https://github.com/junhoe99/SPI_Protocol)** - SPI Protocol
 
 - **[I2C](https://github.com/junhoe99/I2C_Protocol)** - I2C Protocol
