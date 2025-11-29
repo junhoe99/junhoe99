@@ -20,8 +20,9 @@
 - **[7_segment + ultra sensor](https://github.com/junhoe99/7_segment_ultra_sensor)** - 센서 측정값을 UART 프로토콜을 활용해 FPGA의 LED segment에 display 
 
 **📖Serial Communication Protocol [Verilog / SystemVerilog]**  
-- **[SPI](https://github.com/junhoe99/SPI_Master)** - SPI Protocol
-
+- **[UART](https://github.com/junhoe99/UART_Protocol)** - UART Protocol
+- **[SPI](https://github.com/junhoe99/SPI_Protocol)** - SPI Protocol
+- **[I2C](https://github.com/junhoe99/I2C_Protocol)** - I2C Protocol
 
 **📖 Design Verification [SystemVerilog, UVM]**  
 - **[UVM_RV32I](https://github.com/junhoe99/UVM_RV32I)** – (RV32I ISA) RISC-V CPU Design Verification Project
