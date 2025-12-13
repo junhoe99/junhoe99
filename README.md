@@ -7,7 +7,7 @@
 ---
 ### 📌 주요 프로젝트
 **📖 RTL Design Project[Verilog / SystemVerilog]**  
-- **[RGB DICE Game](https://github.com/junhoe99/ov7670-dice-game)** - RGB Dice Game
+- **[RGB DICE Game](https://github.com/junhoe99/my-portfolio)** - RGB Dice Game
 - **[AMBA_APB_UART_Periph](https://github.com/junhoe99/AMBA_APB_UART_Periph)** - AMBA APB Based UART Peripheral Project
   
 - **[Multi Cycle RISC-V_CPU](https://github.com/junhoe99/RISC-V_CPU_Multi_Cycle)** - (RV32I ISA) Multi Cycle RISC-V CPU Design Project
